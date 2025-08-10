@@ -318,3 +318,8 @@ body {
 		margin: 0;
 		padding: 0;
 	}
+
+  .link-back {
+   margin-top: 10px;
+   margin-left: 20px;
+  }
